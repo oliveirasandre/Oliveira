@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="actionBarSize">4dp</dimen>
+    <dimen name="txt_pequeno">10dp</dimen>
+    <dimen name="txt_medio">16dp</dimen>
+    <dimen name="txt_grande">20dp</dimen>
+</resources>
